@@ -33,7 +33,7 @@
 </h3>
 <p align=center>
 <img alt="Static Badge" src="https://img.shields.io/badge/Gineticus-%23292929?style=for-the-badge&logo=discord&label=Discord">
-<img alt="Youtube Badge" src="https://img.shields.io/badge/Gineticus-%23292929?style=for-the-badge&logo=youtube&logoColor=%23FF0000&label=Youtube"></a><br>
+<img alt="Youtube Badge" src="https://img.shields.io/badge/Gineticus-%23292929?style=for-the-badge&logo=youtube&logoColor=%23FF0000&label=Youtube"></a>
 <a href"https://www.twitch.tv/gineticus"><img alt="Twitch Badge" src="https://img.shields.io/badge/Gineticus-%23292929?style=for-the-badge&logo=twitch&label=Twitch"></a>
 <img alt="Mail Badge" src="https://img.shields.io/badge/Bal3025%40mail.ru-%23292929?style=for-the-badge&logo=maildotru&logoColor=%23005FF9&label=Mail">
 </p>
