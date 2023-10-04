@@ -7,6 +7,7 @@
   <a href=""></a>I'm a bit of a dumb🥸 <b>coder</b>💻.
 </h3>
 <br>
+(img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/116207...")
 
 - Now im learning in **ITMO University** and upgrading my skills.
 - You always can check my projects in my profile.
