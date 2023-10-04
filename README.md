@@ -9,9 +9,9 @@
 <br>
 <img src="https://i.ibb.co/M8wSvV8/w123.png" align="right" alt="Coding" width="500"
 
-- Now im learning in **ITMO University** and upgrading my skills.
-- You always can check my projects in my profile.
-- Fun fuct: im always busy.
+- Now im learning📒 in **ITMO University🏯** and upgrading my skills🧮.
+- You always can check🔍 my projects📁 in my profile.
+- 💡Fun fuct: im always busy😵‍💫.
 
 <br>
 <br>
