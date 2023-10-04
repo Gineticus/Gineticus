@@ -7,7 +7,7 @@
   <a href=""></a>I'm a bit of a dumb🥸 <b>coder</b>💻.
 </h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - Now im learning in **ITMO University** and upgrading my skills.
 - You always can check my projects in my profile.
@@ -30,8 +30,8 @@
   <a href=""></a>My socials:
 </h3>
 <p align=center>
-<img alt="Static Badge" src="https://img.shields.io/badge/Gineticus-%23292929?style=for-the-badge&logo=discord">
-<img alt="Youtube Badge" src="https://img.shields.io/badge/Gineticus-%23292929?style=for-the-badge&logo=youtube&logoColor=%23FF0000"></a>
-<a href"https://www.twitch.tv/gineticus"><img alt="Twitch Badge" src="https://img.shields.io/badge/Gineticus-%23292929?style=for-the-badge&logo=twitch"></a>
-<img alt="Static Badge" src="https://img.shields.io/badge/Bal3025%40mail.ru-%23292929?style=for-the-badge&logo=maildotru&logoColor=%23005FF9">
+<img alt="Static Badge" src="https://img.shields.io/badge/Gineticus-%23292929?style=for-the-badge&logo=discord&label=Discord">
+<img alt="Youtube Badge" src="https://img.shields.io/badge/Gineticus-%23292929?style=for-the-badge&logo=youtube&logoColor=%23FF0000&label=Youtube"></a><br>
+<a href"https://www.twitch.tv/gineticus"><img alt="Twitch Badge" src="https://img.shields.io/badge/Gineticus-%23292929?style=for-the-badge&logo=twitch&label=Twitch"></a>
+<img alt="Mail Badge" src="https://img.shields.io/badge/Bal3025%40mail.ru-%23292929?style=for-the-badge&logo=maildotru&logoColor=%23005FF9&label=Mail">
 </p>
