@@ -14,7 +14,6 @@
 - 💡Fun fuct: im always busy😵‍💫.
 
 <br>
-<br>
 <h3 align=center>
   <a href=""></a>My skills:
 </h3>
