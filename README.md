@@ -20,11 +20,8 @@
 <p align=center>
 <a href=""><img alt="Python Badge" src="https://img.shields.io/badge/Python-%23292929?style=for-the-badge&logo=python"></a>
 <a href=""><img alt="C++ Badge" src="https://img.shields.io/badge/C%2B%2B-%23292929?style=for-the-badge&logo=cplusplus&logoColor=%2300599C"></a>
-<a href=""><img alt="C# Badge" src="https://img.shields.io/badge/C%23-%23292929?style=for-the-badge&logo=csharp&logoColor=%23512BD4"></a>
+<a href=""><img alt="C# Badge" src="https://img.shields.io/badge/C%23-%23292929?style=for-the-badge&logo=dotnet&logoColor=%23512BD4"></a>
 <a href=""><img alt="Lua Badge" src="https://img.shields.io/badge/Lua-%23292929?style=for-the-badge&logo=lua&logoColor=%232C2D72"></a>
-<a href=""><img alt="Photoshop Badge" src="https://img.shields.io/badge/Photoshop-%23292929?style=for-the-badge&logo=adobephotoshop"></a>
-<a href=""><img alt="AEF Badge" src="https://img.shields.io/badge/After%20Effects-%23292929?style=for-the-badge&logo=adobeaftereffects"></a>
-<a href=""><img alt="VSCode Badge" src="https://img.shields.io/badge/VS%20Code-%23292929?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC"></a>
 </p>
 
 <h3 align=center>
