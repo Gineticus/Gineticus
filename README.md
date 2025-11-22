@@ -1,5 +1,5 @@
 <h1 align=center>
-  <a href=""></a><img alt="Gineticus" src="https://i.ibb.co/rw9LxYG/Untitled-1.png" width=200>
+  <a href=""></a><img alt="Gineticus" src="image.png" width=200>
   <br>
   Hi 👋, im Gineticus
 </h1>
