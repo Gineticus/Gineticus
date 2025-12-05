@@ -1,6 +1,6 @@
 <h1 align=center>
-  <!-- <a href=""></a><img alt="Gineticus" src="image.png" width=200>
-  <br> -->
+  <a href=""></a><img alt="Gineticus" src="image.png" width=200>
+  <br>
   Hi 👋, im Gineticus
 </h1>
 <h3 align=center>
@@ -24,7 +24,7 @@
 <a href=""><img alt="Lua Badge" src="https://img.shields.io/badge/Lua-%23292929?style=for-the-badge&logo=lua&logoColor=%232C2D72"></a>
 </p>
 
-<!-- <h3 align=center>
+<h3 align=center>
   <a href=""></a>My socials:
 </h3>
 <p align=center>
@@ -32,4 +32,4 @@
 <a href="https://www.youtube.com/channel/UCGom9EyCKSIndc07ww64u9A"><img alt="Youtube Badge" src="https://img.shields.io/badge/Gineticus-%23292929?style=for-the-badge&logo=youtube&logoColor=%23FF0000&label=Youtube"></a>
 <a href="https://www.twitch.tv/gineticus"><img alt="Twitch Badge" src="https://img.shields.io/badge/Gineticus-%23292929?style=for-the-badge&logo=twitch&label=Twitch"></a>
 <a href=""><img alt="Mail Badge" src="https://img.shields.io/badge/Bal3025%40mail.ru-%23292929?style=for-the-badge&logo=maildotru&logoColor=%23005FF9&label=Mail"></a>
-</p> -->
+</p>
