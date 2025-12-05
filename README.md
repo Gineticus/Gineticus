@@ -28,6 +28,7 @@
   <a href=""></a>My socials:
 </h3>
 <p align=center>
+<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Gineticus-%23292929?style=for-the-badge&logo=discord&label=Discord"></a>
 <a href="https://www.youtube.com/channel/UCGom9EyCKSIndc07ww64u9A"><img alt="Youtube Badge" src="https://img.shields.io/badge/Gineticus-%23292929?style=for-the-badge&logo=youtube&logoColor=%23FF0000&label=Youtube"></a>
 <a href="https://www.twitch.tv/gineticus"><img alt="Twitch Badge" src="https://img.shields.io/badge/Gineticus-%23292929?style=for-the-badge&logo=twitch&label=Twitch"></a>
 <a href=""><img alt="Mail Badge" src="https://img.shields.io/badge/Bal3025%40mail.ru-%23292929?style=for-the-badge&logo=maildotru&logoColor=%23005FF9&label=Mail"></a>
